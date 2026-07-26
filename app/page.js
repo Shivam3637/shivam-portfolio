@@ -40,7 +40,7 @@ export default function Home() {
         </section>
 
         <section id="about" className="h-screen flex items-center justify-center">
-          <h1 className="text-5xl font-bold">About</h1>
+          <h1 className="text-5xl font-bold">About Me</h1>
         </section>
 
         <section id="skills" className="h-screen flex items-center justify-center">
